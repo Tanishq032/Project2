@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-Creted by Tanqish
+Creted by Tanqish.
